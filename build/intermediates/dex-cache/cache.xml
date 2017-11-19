@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rishab\.android\build-cache\c64a34d85c3290ee05b82e57f7c5c484dee1d94c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b65dc1094ac346243fd86c2d4c70f7988c954ebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rishab\.android\build-cache\4dfa3c7e0ca9a2f914230f102df8773d8bb1cb3e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6d06e4c9aca9b77919c4a49f7fa4b17914cfcdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0821916c45f086d29201db993d96b20e635f19ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rishab\.android\build-cache\d3b6cac3593242326073659ca1008b654a060007\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e28e6528cf3487c6645820384434a06516be4eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rishab\.android\build-cache\c931e50a1234e88e3f1e906172bfc9219e9e0cf4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac31b7df1e671ae2b8a36a82eb58a33e6fd66c62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rishab\.android\build-cache\91a3fbe24305a97717cab3fba9aede14f978d5ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f7ef5c362a7b4a7f7c21432a0c5447b3ffb2499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rishab\.android\build-cache\f2a126d8e6e59b50336737e4641443267585e673\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0913fb2761632b0a0c81f76a9c479f23f7351a56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rishab\.android\build-cache\4fc3522aeea7fac2ba7b73d0d9f973accd71c48c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1106629b63b85f3deeecefdfbdaa9234e6979b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rishab\.android\build-cache\8388f364aabecdcbb67f48bf8622bff8bd5f9cad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43da9c13fedff5e8f403f118c15d87d6f4558afc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rishab\.android\build-cache\f33f36568d346d950b8ed943f876ccc9d0ac13be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5fa6541d414c1c1324f75627e8e6d036b627fd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rishab\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.2_99e89628c7805775dbd10fdbabf19c5ef48dabba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b83d15f072b204908aeb4fdb31a13b671e87d54">
+        <dex dex="F:\ScarnesDice-master\ScarnesDice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_972e1a8113f6a2ab6028e3b0ab539d31a28cf0c0\classes.dex" />
+    </item>
+
+</items>
